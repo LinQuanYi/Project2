@@ -27,7 +27,7 @@ MNIST is an open source dataset which is used for handwritten digits recognition
 ## Test1
 In test1, based on the original architecture, we add a convolution layer before FC layer. The shape of the weight variavle is 3x3x32, and due to the 5x5x16 Input image shape, we get 3x3x32 images after the new convolution layer.The validation accuracy after 10 epochs is shown as follows:
 
-<img src=".\\自带+几个改动\\实验一.jpg" width="438" height="368">
+<img src=".//自带+几个改动//实验一.jpg" width="438" height="368">
 
 As we can see in the picture, if we add an convolution layer, the validation accuracy will improve a little bit.The test accuracy of new architecture is 0.986, which is also higher than the original CNN architecture, 0.982. ##这里可以写写原因##
 
