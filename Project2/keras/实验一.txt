@@ -1,0 +1,24 @@
+实验一（keras2，Dense(84)）：
+Epoch 1/10
+1375/1375 [==============================] - 25s 18ms/step - loss: 0.4170 - accuracy: 0.8716 - val_loss: 0.0738 - val_accuracy: 0.9780
+Epoch 2/10
+1375/1375 [==============================] - 25s 18ms/step - loss: 0.0580 - accuracy: 0.9829 - val_loss: 0.0601 - val_accuracy: 0.9830
+Epoch 3/10
+1375/1375 [==============================] - 29s 21ms/step - loss: 0.0381 - accuracy: 0.9871 - val_loss: 0.0502 - val_accuracy: 0.9854
+Epoch 4/10
+1375/1375 [==============================] - 30s 22ms/step - loss: 0.0265 - accuracy: 0.9911 - val_loss: 0.0507 - val_accuracy: 0.9867
+Epoch 5/10
+1375/1375 [==============================] - 38s 27ms/step - loss: 0.0229 - accuracy: 0.9928 - val_loss: 0.0542 - val_accuracy: 0.9853A: 28s - loss: 0.0252 - accuracy: - ETA: 27s - loss: 0.0250 
+Epoch 6/10
+1375/1375 [==============================] - 25s 19ms/step - loss: 0.0170 - accuracy: 0.9941 - val_loss: 0.0514 - val_accuracy: 0.9862
+Epoch 7/10
+1375/1375 [==============================] - 24s 17ms/step - loss: 0.0123 - accuracy: 0.9960 - val_loss: 0.0600 - val_accuracy: 0.9841
+Epoch 8/10
+1375/1375 [==============================] - 25s 18ms/step - loss: 0.0109 - accuracy: 0.9963 - val_loss: 0.0449 - val_accuracy: 0.9895
+Epoch 9/10
+1375/1375 [==============================] - 25s 18ms/step - loss: 0.0074 - accuracy: 0.9975 - val_loss: 0.0572 - val_accuracy: 0.9865
+Epoch 10/10
+1375/1375 [==============================] - 23s 17ms/step - loss: 0.0061 - accuracy: 0.9980 - val_loss: 0.0529 - val_accuracy: 0.9877
+
+Test loss: 0.03633911535143852
+Test Accuracy: 0.9900000095367432
